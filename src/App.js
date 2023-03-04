@@ -1,5 +1,4 @@
 import React, { useState, useEffect }  from "react";
-import logo from './logo.svg';
 import copy1 from './copy1.svg';
 import './App.css';
 import Web3 from 'web3';
